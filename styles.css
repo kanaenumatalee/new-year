@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#ffe169, #ffc300);
+    background: linear-gradient(#ffc8dd, #ffc300);
     color: #fb5607;
 }
 
@@ -18,7 +18,7 @@ h1, h2, h3, h4, p {
 #newyear-img {
     width: 250px;
     border-radius: 30%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid white;
     margin-bottom: 10px;
 }
 
